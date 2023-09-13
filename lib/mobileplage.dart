@@ -88,7 +88,7 @@ class _MobileUIState extends State<MobileUI> {
                       SizedBox(width: 10.w,),
                       Image.asset("assets/instagram.png",height: 50,width: 50,),
                       SizedBox(width: 10.w,),
-                      Image.asset("assets/twitter.png",height: 50,width: 50,),
+                      Image.asset("assets/X.png",height: 50,width: 50,),
                     ],
                   ),
 
