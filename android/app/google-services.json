@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763734429560",
+    "project_id": "esthetica-56286",
+    "storage_bucket": "esthetica-56286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763734429560:android:152c17a863051fc293c28d",
+        "android_client_info": {
+          "package_name": "com.example.esthetica_webb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhv76UGaeVuefWUVXTLPoGUNiESRE_2kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
