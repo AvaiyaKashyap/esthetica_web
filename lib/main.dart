@@ -186,7 +186,7 @@ class _MyWeb2State extends State<MyWeb2> {
                         width: 2.w,
                       ),
                       Image.asset(
-                        "assets/twitter.png",
+                        "assets/X.png",
                         height: 50,
                         width: 50,
                       ),
